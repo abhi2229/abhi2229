@@ -26,6 +26,9 @@ TO track all the files
 ```
 git add .
 ```
-
-kjghjvjk
-saasas
+To seturp ci/cd pipeline information
+'''
+HEROKU_EMAIL= maity2229@gmail.com
+HEROKU_API_KEY=<>
+HEROKU_APP_NAME=testing-thyroid
+'''
