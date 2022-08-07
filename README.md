@@ -26,9 +26,24 @@ TO track all the files
 ```
 git add .
 ```
-To seturp ci/cd pipeline information
-'''
-HEROKU_EMAIL= maity2229@gmail.com
+
+TO commit in git
+```
+git commit -m "message"
+```
+
+Tp push in github
+```
+git push origin main
+```
+To set remote url
+```
+git remote set-url origin <github url>
+```
+To setup ci/cd pipeline we need 3 information
+```
+HEROKU_EMAIL=soumallatarafder@gmail.com
 HEROKU_API_KEY=<>
-HEROKU_APP_NAME=testing-thyroid
-'''
+HEROKU_APP_NAME=ci-cd-based-thyroid-detection
+```
+
